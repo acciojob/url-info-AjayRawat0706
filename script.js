@@ -2,4 +2,4 @@
 
 let x=window.location.href;
 let n=x.length;
-alert(`The length of the URL is:${n}`)
+alert(`The length of the URL is:${n+1}`)
